@@ -70,3 +70,4 @@ jobs:
           app-name: 'letschat'
           slot-name: 'Production'
           package: .
+          
